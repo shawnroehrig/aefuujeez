@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aivoshohz.microcartjs.com/sitemap.xml
